@@ -16,6 +16,11 @@
    <a href="https://www.instagram.com/_vikash__yadav_143/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+ <a>
+   <a href='#'>
+    <img src="https://img.shields.io/badge/Linkedin-purple?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
+ </a>
 </div>
 
 ### Languages and Tools:
