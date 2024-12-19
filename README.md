@@ -19,7 +19,7 @@
   </a>
 
  <a> 
- <a href="https://www.instagram.com/_vikash__yadav_143/">
+ <a href="https://www.linkedin.com/in/baiju-yadav-4882b81aa/">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"/>
   </a>
   
