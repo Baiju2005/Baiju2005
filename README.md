@@ -33,6 +33,9 @@
 <p style="background-color: #242938; padding: 10px; display: inline-block; border-radius: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy Logo" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas Logo" width="50" height="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure Cloud Logo" width="50" height="50"/>
+<img src="https://learn.microsoft.com/en-us/azure/databricks/_static/images/icons/azure-data-lake-store-icon.png" alt="Azure Data Lake Storage Gen2 Logo" width="50" height="50"/>
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Logo" width="50" height="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow Logo" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI Logo" width="50" height="50"/>
