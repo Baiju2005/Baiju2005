@@ -27,7 +27,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,html,css,javascript,react,nextjs,tailwind,nodejs,express,mongodb,github,aws,azure,git,kubernetes,docker,linux,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,mysql,html,css,javascript,react,nextjs,tailwind,nodejs,express,mongodb,github,aws,azure,git,kubernetes,docker,linux,postman)](https://skillicons.dev)
 
 
 <p style="background-color: #242938; padding: 10px; display: inline-block; border-radius: 5px;">
