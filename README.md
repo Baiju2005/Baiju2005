@@ -1,8 +1,6 @@
  <h1 align="center">Hi 👋, I'm Baiju Kumar Yadav</h1>
 
-- 🎓 Final year Computer Science Engieneering Student at RGPV University (2022-26)
-- 🔭 I’m currently working on Data Science
-- 💬 Ask me anything about Data Science & Data Analysis 
+- 💻 Software Engineer
 - 📫 How to reach me: yadavbaiju2005@gmail.com
   
 ### Connect with me:
